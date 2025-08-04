@@ -50,4 +50,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 
-Para mais informações, entre em contato com [Francisney pelo e-mail: francisneyh@gmail.com].
+Para mais informações, entre em contato comigo pelo e-mail: francisneyh@gmail.com.
